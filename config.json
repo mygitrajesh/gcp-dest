@@ -1,0 +1,23 @@
+{
+    "shared_source_repos": [
+        "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric.git"
+       
+
+
+    ],
+    "destination_repos": [
+        "https://github.com/mygitrajesh/gcp-dest.git"
+        
+    ],
+    "module_paths": [
+        "modules/gcs"
+       
+
+    ],
+    "parent_paths": [
+      "."
+      
+
+    ]
+  }
+  
